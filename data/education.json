@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Bachelor of Applied Science(B.A.Sc.) in Electronics Engineering Technology",
+        "year": "2022 - 2026",
+        "description": "GPA 3.2 of 4.0; Studied Applied Electronics Engineering with a focus on practical and project"
+    },
+    {
+        "university": "SMKN 7 Semarang",
+		"logo": "smk7.jpg",
+        "major": "Electronical Engineering",
+        "year": "2017 - 2021",
+        "description": "graduated from this school in 4 years and got a Diploma 1 degree"
+    }
+]
